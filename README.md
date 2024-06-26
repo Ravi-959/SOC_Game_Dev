@@ -2,6 +2,7 @@
 Contains files and assets that I have used for game development.
 
 Instructions to play the game : 
+
     Note : Download complete folder to run the game.
 Download the folder Soc_midterm and run the application "2D Platform.exe" 
 Game has following operations :
